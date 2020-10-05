@@ -1,0 +1,5 @@
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.csprojAssemblyReference.cache
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Prodavnica.Form1.resources
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.Properties.Resources.resources
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.csproj.GenerateResource.cache
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.csproj.CoreCompileInputs.cache

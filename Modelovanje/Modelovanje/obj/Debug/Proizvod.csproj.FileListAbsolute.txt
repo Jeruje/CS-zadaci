@@ -1,0 +1,9 @@
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\bin\Debug\Modelovanje.exe.config
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\bin\Debug\Modelovanje.exe
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\bin\Debug\Modelovanje.pdb
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.Form1.resources
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.Properties.Resources.resources
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Proizvod.csproj.GenerateResource.cache
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Proizvod.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.exe
+C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.pdb
