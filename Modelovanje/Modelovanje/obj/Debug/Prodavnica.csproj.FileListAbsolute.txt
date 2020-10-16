@@ -8,3 +8,13 @@ C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Prod
 C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Prodavnica.csproj.CoreCompileInputs.cache
 C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.exe
 C:\Users\jeruj\Documents\GitHub\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.pdb
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\bin\Debug\Modelovanje.exe.config
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\bin\Debug\Modelovanje.exe
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\bin\Debug\Modelovanje.pdb
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Prodavnica.csprojAssemblyReference.cache
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.Form1.resources
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.Properties.Resources.resources
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Prodavnica.csproj.GenerateResource.cache
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Prodavnica.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.exe
+C:\Users\jeruj\Source\Repos\Jeruje\CS-zadaci\Modelovanje\Modelovanje\obj\Debug\Modelovanje.pdb

@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Modelovanje
 {
@@ -10,60 +12,31 @@ namespace Modelovanje
     {
         #region atributi
         private string naziv, proizvodjac;
-        private double cena;
+        private int cena;
         #endregion
-
-        #region konstruktori
-        public Proizvod(string naziv, string proizvodjac, double cena)
+        
+       #region konstruktori
+        public Proizvod(string naziv, string proizvodjac, int cena)
         {
-            if (naziv.Equals(string.Empty))
-                throw new Exception("Nema naziv!");
-            else if (proizvodjac.Equals(string.Empty))
-                throw new Exception("Nema proizvodjaca!");
-            else if (cena < 0)
-                throw new Exception("Cena<0!");
-            else
-            {
-                this.naziv = naziv;
-                this.proizvodjac = proizvodjac;
-                this.cena = cena;
-            }
-        }
-
-        public Proizvod(string naziv, string proizvodjac)
-        {
-            if (naziv.Equals(string.Empty))
-                throw new Exception("Nema naziv!");
-            else if (proizvodjac.Equals(string.Empty))
-                throw new Exception("Nema proizvodjaca!");
-            else
-            {
-                this.naziv = naziv;
-                this.proizvodjac = proizvodjac;
-                this.cena = 0;
-            }
+            if (naziv.Equals(string.Empty)) throw new Exception("Nije unet naziv!");
+            if (proizvodjac.Equals(string.Empty)) throw new Exception("Nije unet proizvodjac!");
+            if (cena<0) throw new Exception("Cena je manja od nule!");
+            this.naziv = naziv;
+            this.proizvodjac = proizvodjac;
+            this.cena = cena;
         }
         #endregion
 
         #region metode
-        public bool SkupljiOd(Proizvod p)
+        public bool Skuplji(Proizvod p)
         {
             if (cena > p.cena) return true;
             else return false;
-            //return cena > p.cena;
         }
-
-        public void PromeniCenu(double novaCena)
+       
+        public string  Prikaz()
         {
-            if (novaCena < 0)
-                throw new Exception("Cena<0!");
-            else
-                this.cena = novaCena;
-        }
-
-        public string Prikaz()
-        {
-            return naziv + ", " + proizvodjac + " - " + cena + "RSD";
+            return naziv + ", " + proizvodjac + " - " + cena + " RSD";
         }
         #endregion
 

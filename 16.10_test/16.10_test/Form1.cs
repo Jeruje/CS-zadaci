@@ -8,9 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
-
-namespace Modelovanje
+namespace _16._10_test
 {
     public partial class Form1 : Form
     {
@@ -18,24 +16,22 @@ namespace Modelovanje
         {
             InitializeComponent();
         }
-
-        Proizvod[] p = new Proizvod[100];
+        Takmicar[] t = new Takmicar[100];
         int n = 0;
         private void Form1_Load(object sender, EventArgs e)
         {
             try
             {
-                StreamReader f = new StreamReader("Proizvodi.txt");
+                StreamReader f = new StreamReader("takmicari.txt");
                 while(!f.EndOfStream)
                 {
-                    string naziv = f.ReadLine();
-                    string proizvodjac = f.ReadLine();
-                    int cena = Convert.ToInt32(f.ReadLine());
-                    p[n] =new Proizvod( naziv, proizvodjac, cena);
-                    listBox1.Items.Add(p[n].Prikaz());
+                    string takmicar = f.ReadLine();
+                    int bodovi = Convert.ToInt32(f.ReadLine());
+                    t[n] = new Takmicar(takmicar, bodovi);
+                    listBox1.Items.Add(t[n].Prikaz());
                     n++;
                 }
-                f.Close();
+                
             }
             catch(Exception izuzetak)
             {
@@ -43,28 +39,26 @@ namespace Modelovanje
             }
         }
 
-        private void button1_Click_1(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < n; i++)
+            for(int i =0; i<n;i++)
             {
-                for (int j = i + 1; j < n; j++)
+                for (int j = i+1;j<n;j++)
                 {
-                    if (p[i].Skuplji(p[j]))
+                    if(t[i].Bolji(t[j]))
                     {
-                        Proizvod t = p[i];
-                        p[i] = p[j];
-                        p[j] = t;
+                        Takmicar p = t[i];
+                        t[i] = t[j];
+                        t[j] = p;
                     }
                 }
             }
             listBox1.Items.Clear();
-            for (int i = 0; i < n; i++)
+            for(int i =0;i<n;i++)
             {
-                listBox1.Items.Add(p[i].Prikaz());
+                listBox1.Items.Add(t[i].Prikaz());
             }
-
             button1.Enabled = false;
         }
     }
 }
-
