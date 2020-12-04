@@ -1,0 +1,10 @@
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\bin\Debug\Aplikacija 2.exe.config
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\bin\Debug\Aplikacija 2.exe
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\bin\Debug\Aplikacija 2.pdb
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija 2.csprojAssemblyReference.cache
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija_2.Form1.resources
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija_2.Properties.Resources.resources
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija 2.csproj.GenerateResource.cache
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija 2.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija 2.exe
+C:\Users\jeruj\source\repos\Aplikacija 2\Aplikacija 2\obj\Debug\Aplikacija 2.pdb

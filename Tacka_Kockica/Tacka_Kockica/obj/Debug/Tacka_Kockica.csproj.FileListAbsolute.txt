@@ -1,0 +1,10 @@
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\bin\Debug\Tacka_Kockica.exe.config
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\bin\Debug\Tacka_Kockica.exe
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\bin\Debug\Tacka_Kockica.pdb
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.csprojAssemblyReference.cache
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.Form1.resources
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.Properties.Resources.resources
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.csproj.GenerateResource.cache
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.exe
+C:\Users\jeruj\source\repos\Tacka_Kockica\Tacka_Kockica\obj\Debug\Tacka_Kockica.pdb
