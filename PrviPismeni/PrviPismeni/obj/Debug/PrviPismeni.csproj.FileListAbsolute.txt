@@ -1,0 +1,10 @@
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\bin\Debug\PrviPismeni.exe.config
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\bin\Debug\PrviPismeni.exe
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\bin\Debug\PrviPismeni.pdb
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.csprojAssemblyReference.cache
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.Form1.resources
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.Properties.Resources.resources
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.csproj.GenerateResource.cache
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.exe
+C:\Users\jeruj\source\repos\PrviPismeni\PrviPismeni\obj\Debug\PrviPismeni.pdb
