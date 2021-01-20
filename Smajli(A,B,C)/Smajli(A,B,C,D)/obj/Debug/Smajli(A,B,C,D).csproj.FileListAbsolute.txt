@@ -1,0 +1,10 @@
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\bin\Debug\Smajli(A,B,C,D).exe.config
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\bin\Debug\Smajli(A,B,C,D).exe
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\bin\Debug\Smajli(A,B,C,D).pdb
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli(A,B,C,D).csprojAssemblyReference.cache
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli_A_B_C_D_.Form1.resources
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli_A_B_C_D_.Properties.Resources.resources
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli(A,B,C,D).csproj.GenerateResource.cache
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli(A,B,C,D).csproj.CoreCompileInputs.cache
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli(A,B,C,D).exe
+C:\Users\jeruj\source\repos\Smajli(A,B,C,D)\Smajli(A,B,C,D)\obj\Debug\Smajli(A,B,C,D).pdb
