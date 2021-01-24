@@ -1,0 +1,10 @@
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\bin\Debug\Ukras_podA.exe.config
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\bin\Debug\Ukras_podA.exe
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\bin\Debug\Ukras_podA.pdb
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.csprojAssemblyReference.cache
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.Form1.resources
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.Properties.Resources.resources
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.csproj.GenerateResource.cache
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.csproj.CoreCompileInputs.cache
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.exe
+D:\Skola\III godina\Objektno programiranje\source\repos\Ukras_podA\Ukras_podA\obj\Debug\Ukras_podA.pdb
