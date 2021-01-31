@@ -1,2 +1,2 @@
-# CS-zadaci
-Zadaci u C# vezano i nevezano za skolu.
+# CS-zadaci𓁕
+
