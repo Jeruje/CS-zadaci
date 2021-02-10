@@ -1,0 +1,10 @@
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.csprojAssemblyReference.cache
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.Form1.resources
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.Properties.Resources.resources
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.csproj.GenerateResource.cache
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\source\repos\TheBank\TheBank\bin\Debug\TheBank.exe.config
+C:\Users\jeruj\source\repos\TheBank\TheBank\bin\Debug\TheBank.exe
+C:\Users\jeruj\source\repos\TheBank\TheBank\bin\Debug\TheBank.pdb
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.exe
+C:\Users\jeruj\source\repos\TheBank\TheBank\obj\Debug\TheBank.pdb
