@@ -1,0 +1,12 @@
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\bin\Debug\TrainGame.exe.config
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\bin\Debug\TrainGame.exe
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\bin\Debug\TrainGame.pdb
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.csprojAssemblyReference.cache
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.Properties.Resources.resources
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.Track.resources
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.csproj.GenerateResource.cache
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.csproj.CoreCompileInputs.cache
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.exe
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.pdb
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.Form1.resources
+C:\Users\jeruj\source\repos\TrainGame\TrainGame\obj\Debug\TrainGame.DistanceChangedEventArgs.resources
